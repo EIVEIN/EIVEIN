@@ -5,9 +5,9 @@ $${\color{#FFBF00}\Large\textsf{/// INCOMING TRANSMISSION ///}}$$
 
 <br><br>
 
-$${\color{#A9C5D6}\Huge\textsf{E I V E I N}}$$
+$${\color{#E49B0F}\Huge\textsf{E I V E I N}}$$
 
-$${\color{#718B9D}\small\textsf{PERSONAL ARCHIVE // 001}}$$
+$${\color{#E49B0F}\small\textsf{PERSONAL ARCHIVE // 001}}$$
 
 <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=2800&pause=1000&color=FFBF00&center=true&vCenter=true&width=480&lines=%2F%2F+Welcome+to+my+archive.;%3E+Connection+established.;%23+Accessing+personal+files...;%40+Greetings+from+the+cold.">
 

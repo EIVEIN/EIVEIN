@@ -82,7 +82,7 @@ $${\color{#FFBF00}\small\textsf{I don't mind Hetalia, but I'm primarily interest
 
 $${\color{#FFBF00}\small\textsf{I don't mind talking about shared interests, and I genuinely enjoy getting to know other people. However, I'm not particularly fond of talking about myself.}}$$
 
-$${\color{#FFBF00}\small\textsf{Sometimes I may be quiet or distant, but that doesn't mean I dislike you. I get tired easily, and my social battery tends to drain quickly, especially when interacting with new people.}}$$</div>
+$${\color{#FFBF00}\Small\textsf{Sometimes I may be quiet or distant, but that doesn't mean I dislike you. I get tired easily, and my social battery tends to drain quickly, especially when interacting with new people.}}$$</div>
 </details>
 
 ---
